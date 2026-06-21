@@ -2,6 +2,10 @@
 
 Standalone Next.js application for testing BoLD against an authorization flaw where the ownership signal is nested and renamed.
 
+## Live Deployment
+
+Production: https://bold-app-2-nested-owner.vercel.app
+
 ## Contract
 
 - Route: `app/api/accounts/[id]/route.ts`
